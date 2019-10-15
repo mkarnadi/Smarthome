@@ -65,7 +65,7 @@ void loop() {
     
     nyalakanBuzzer();
     
-    if(servoStatus == "tutup"){
+    if(servoStatus == "tutuup"){
       do{
         bukaPintu();
         lastServoStatus = "buka";
