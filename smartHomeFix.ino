@@ -166,7 +166,7 @@ void loop() {
   }
   
   lihatData();
-  //delay(100);
+  //delay(1000);
 }
 
 void setupPin(){
